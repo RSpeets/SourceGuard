@@ -1,0 +1,132 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+# Specific to ReSharper's unmanaged Symbol Files
+.JetBrains.Rider/
+
+# Local history for Visual Studio
+.localhistory/
+
+# Visual Studio History (VSHistory) files
+.vshistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup & temporary files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# NuGet v3's project.lock.json and project.assets.json
+project.lock.json
+project.assets.json
+
+# NuGet v3's project.restore.json
+*.nuget.resx
+
+# The packages folder can be checked in or not, depending on the desired workflow
+packages/
+!packages/repositories.config
+
+# Nuget personal access token and other sensitive credential files stored in clear text
+secrets.json
+
+# Cache files for BuildStats.Dashboard, a NuGet Package
+!.NETCore.build_log.txt
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code directory
+.vscode/
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/
+
+# Misc files
+*.DS_Store
+Thumbs.db
+
+# User-specific VS Code launch configurations
+.vscode/launch.json
+.vscode/tasks.json
+
+# Rider
+.idea/
+
+# Output folder used by Webpack or other bundlers
+dist/
+
+# Uncomment this if you have Node stuff
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# IDE generated folders
+.vs/
+.vscode/
+bin/
+obj/
+
+# Publish Directories
+PublishOutputs/
+publish/
